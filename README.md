@@ -1,7 +1,7 @@
 # Learing LLM by using ImageNet
 **Courrent Exist Model: ResNet50, Mobilnet_v2**
 ### **ResNet50**
-📖paper: https://arxiv.org/abs/1512.03385
+📖paper: https://arxiv.org/abs/1512.03385 /n
 🌐Reference Website: 
 https://blog.csdn.net/Cheungleilei/article/details/103610799
 https://blog.csdn.net/weixin_52527544/article/details/127129303
